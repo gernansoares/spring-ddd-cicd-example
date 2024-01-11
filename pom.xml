@@ -11,7 +11,7 @@
 
     <groupId>com.ddd.cicd</groupId>
     <artifactId>example</artifactId>
-    <version>0.0.7</version>
+    <version>1.0.0</version>
     <name>Spring-DDD-CICD</name>
     <description>Demo project for Spring Boot, DDD and CI/CD</description>
 
