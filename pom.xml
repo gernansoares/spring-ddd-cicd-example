@@ -6,16 +6,19 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.2.1</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/>
     </parent>
+
     <groupId>com.ddd.cicd</groupId>
     <artifactId>example</artifactId>
     <version>0.0.6</version>
     <name>Spring-DDD-CICD</name>
     <description>Demo project for Spring Boot, DDD and CI/CD</description>
+
     <properties>
         <java.version>17</java.version>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
